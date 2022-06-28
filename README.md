@@ -5,4 +5,4 @@
  
  this project is deployed through Netlify and the link is below
  
- https://wondrous-kulfi-16a2b0.netlify.app
+https://dwfeedbackui.netlify.app/
